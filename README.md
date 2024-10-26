@@ -1,6 +1,6 @@
-# front
+# Обучающий проектик по VueJS
 
-This template should help get you started developing with Vue 3 in Vite.
+Шаблон включает в себя VueJS 3, ProveVue, TailwindCSS, Typescript
 
 ## Recommended IDE Setup
 
